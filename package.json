@@ -1,0 +1,24 @@
+{
+  "name": "lodash-bindall-issue",
+  "version": "1.0.0",
+  "description": "lodash bindall seems to be broken",
+  "main": "command.js",
+  "scripts": {
+    "start": "node command.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/royvandewater/lodash-bindall-issue.git"
+  },
+  "keywords": [],
+  "author": "Octoblu, <serveradmin@octoblu.com> (https://octoblu.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/royvandewater/lodash-bindall-issue/issues"
+  },
+  "homepage": "https://github.com/royvandewater/lodash-bindall-issue#readme",
+  "dependencies": {
+    "lodash": "^4.0.0"
+  }
+}
